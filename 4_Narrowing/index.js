@@ -60,7 +60,7 @@ userGreeting(pedro);
 userGreeting(carlos);
 // 4 - Operador in
 // verifica se um parâmetro está presente na classe/objeto
-class dog {
+class Dog {
     constructor(name, breed) {
         this.name = name;
         if (breed) {
@@ -68,14 +68,14 @@ class dog {
         }
     }
 }
-const bang = new dog("Bang");
-const maia = new dog("Maia", "Blue Heeler");
+const bang = new Dog("Bang");
+const maia = new Dog("Maia", "Blue Heeler");
 function showDogDetails(dog) {
     if ('breed' in dog) {
-        console.log(`${dog.name} é da raça "${dog.breed}"`);
+        console.log(`${dog['name']} é da raça "${dog.breed}"`);
     }
     else {
-        console.log(`${dog.name} é vira-lata`);
+        console.log(`${dog['name']} é vira-lata`);
     }
 }
 showDogDetails(bang);
