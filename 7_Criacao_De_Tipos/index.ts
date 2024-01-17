@@ -1,3 +1,5 @@
+export{}
+
 // 1 - Generics
 
 function showData<T>(arg: T): string {
@@ -53,9 +55,9 @@ console.log(getSomeKey(server, 'ram'))
 
 type Driver = {name: string, age: number, hasDriveLicense: boolean}
 
-type C = keyof Character
+type C = keyof Driver
 
-function showCharName(obj: Character, name: C): string {
+function showCharName(obj: Driver, name: C): string {
   return `${obj[name]}`
 }
 

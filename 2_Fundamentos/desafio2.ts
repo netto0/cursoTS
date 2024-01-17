@@ -1,3 +1,5 @@
+export{}
+
 let variavel:number = 2
 
 let variavelConvertida = variavel.toString()

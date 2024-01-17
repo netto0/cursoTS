@@ -1,3 +1,5 @@
+export{}
+
 // 1 - Tipo de objeto para função com interface
 interface Product {
   name: string

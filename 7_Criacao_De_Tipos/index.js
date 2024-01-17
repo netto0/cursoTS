@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 // 1 - Generics
 function showData(arg) {
     return `O dado é ${arg}`;

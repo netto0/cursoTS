@@ -1,3 +1,5 @@
+export{}
+
 // 1 - Void
 
 function withoutReturn():void {

@@ -1,3 +1,5 @@
+export{}
+
 // 1 - Type guard
 // validação do tipo dos dados através do "typeof"
 function sum(a: number | string, b: number | string) {

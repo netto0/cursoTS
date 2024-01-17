@@ -1,3 +1,5 @@
+export{}
+
 const firstName = "Orlandi"
 
 const lastName = 3

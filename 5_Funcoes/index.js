@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 // 1 - Void
 function withoutReturn() {
     console.log("Esta função não tem retorno!");

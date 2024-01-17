@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 //1: Arrays
 let numbers = [1, 2, 3];
 numbers.push(4);

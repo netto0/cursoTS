@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 // 1 - Type guard
 // validação do tipo dos dados através do "typeof"
 function sum(a, b) {
