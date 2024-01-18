@@ -142,3 +142,97 @@ class Nova extends Base {
 }
 const myObj = new Nova();
 myObj.someMethod();
+// 11 - Public
+class C {
+    constructor() {
+        this.x = 10;
+    }
+}
+class D extends C {
+}
+const cInstance = new C();
+const dInstance = new D();
+console.log(cInstance.x);
+console.log(dInstance.x);
+// 12 - Protected (só podem ser acessadas usando métodos)
+class E {
+    constructor() {
+        this.x = 10;
+    }
+}
+class F extends E {
+    showX() {
+        console.log("X: " + this.x);
+    }
+}
+const fInstance = new F();
+fInstance.showX();
+// 13 - Private (só podem ser acessados na classe e por meio de métodos)
+class PrivateClass {
+    constructor() {
+        this.name = "Private";
+    }
+    showName() {
+        return this.name;
+    }
+}
+const pObj = new PrivateClass();
+// console.log(pObj.name)
+console.log(pObj.showName());
+// 14 - Static members
+class StaticMembers {
+}
+StaticMembers.prop = "Teste static";
+console.log(StaticMembers.prop);
+// 15 - Generic Class
+class Item {
+    constructor(first, second) {
+        this.first = first;
+        this.second = second;
+    }
+}
+const newItem = new Item("caixa", "surpresa");
+console.log(newItem);
+// 16 - Parameter properties
+class ParameterProperties {
+    constructor(name, qty, price) {
+        this.name = name;
+        this.qty = qty;
+        this.price = price;
+        this.name = name;
+        this.qty = qty;
+        this.price = price;
+    }
+}
+const newShirt = new ParameterProperties("Camisa", 5, 20);
+console.log(newShirt.name);
+// 17 - Class Expressions
+const myClass = class {
+    constructor(name) {
+        this.name = name;
+    }
+};
+const pessoa = new myClass("Joao");
+console.log(pessoa.name);
+// 18 - Abstract class
+class AbstractClass {
+}
+// const novo = new AbstractClass()
+class AbstractExample extends AbstractClass {
+    constructor(name) {
+        super();
+        this.name = name;
+    }
+    showName() {
+        console.log(`O nome é ${this.name}`);
+    }
+}
+const newAbstractObj = new AbstractExample("Kleber");
+newAbstractObj.showName();
+// 19 - Relações entre classes
+class Dog {
+}
+class Cat {
+}
+const zubu = new Cat();
+console.log(zubu);
