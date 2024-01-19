@@ -1,5 +1,5 @@
 "use strict";
-// export{}
+Object.defineProperty(exports, "__esModule", { value: true });
 // 1 - Campos
 class User {
 }

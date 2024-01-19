@@ -1,4 +1,4 @@
-// export{}
+export{}
 // 1 - Campos
 
 class User {
