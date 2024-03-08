@@ -166,3 +166,7 @@
 [35m[39m
 2024-03-08 07:32:10:3210 - [35mhttp[39m: [35mDELETE /api/movie/65eade18c97ec8aa7ee21610 404 31 - 55.749 ms[39m
 [35m[39m
+2024-03-08 07:53:33:5333 - [32minfo[39m: [32mConectado ao DB[39m
+2024-03-08 07:53:33:5333 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-03-08 07:53:36:5336 - [35mhttp[39m: [35mDELETE /api/movie/65e90345ff23f5524e2c0ec1 200 37 - 122.428 ms[39m
+[35m[39m
