@@ -1,0 +1,168 @@
+2024-03-06 06:42:13:4213 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-03-06 06:42:15:4215 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-03-06 06:43:00:430 - [32minfo[39m: [32mConectado[39m
+2024-03-06 06:43:00:430 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-03-06 06:43:09:439 - [32minfo[39m: [32mConectado ao DB[39m
+2024-03-06 06:43:09:439 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-03-06 06:43:25:4325 - [31merror[39m: [31mNão foi possível conectar[39m
+2024-03-06 06:43:25:4325 - [31merror[39m: [31mErro: MongoParseError: option retrywritess is not supported[39m
+2024-03-06 06:43:25:4325 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-03-06 06:43:29:4329 - [32minfo[39m: [32mConectado ao DB[39m
+2024-03-06 06:43:29:4329 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-03-06 06:43:52:4352 - [32minfo[39m: [32mConectado ao DB[39m
+2024-03-06 06:43:52:4352 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-03-06 06:44:15:4415 - [32minfo[39m: [32mConectado ao DB[39m
+2024-03-06 06:44:15:4415 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-03-06 07:00:16:016 - [32minfo[39m: [32mConectado ao DB[39m
+2024-03-06 07:00:16:016 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-03-06 07:00:32:032 - [32minfo[39m: [32mConectado ao DB[39m
+2024-03-06 07:00:32:032 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-03-06 07:01:04:14 - [32minfo[39m: [32mConectado ao DB[39m
+2024-03-06 07:01:04:14 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-03-06 07:01:25:125 - [35mhttp[39m: [35mGET /api/test 200 12 - 3.368 ms[39m
+[35m[39m
+2024-03-06 07:15:05:155 - [32minfo[39m: [32mConectado ao DB[39m
+2024-03-06 07:15:05:155 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-03-06 07:17:41:1741 - [35mhttp[39m: [35mPOST /api/movie 200 22 - 3.634 ms[39m
+[35m[39m
+2024-03-06 20:58:48:5848 - [32minfo[39m: [32mConectado ao DB[39m
+2024-03-06 20:58:48:5848 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-03-06 20:59:01:591 - [35mhttp[39m: [35mPOST /api/movie 201 155 - 71.596 ms[39m
+[35m[39m
+2024-03-08 06:27:06:276 - [31merror[39m: [31mNão foi possível conectar[39m
+2024-03-08 06:28:44:2844 - [31merror[39m: [31mNão foi possível conectar[39m
+2024-03-08 06:29:12:2912 - [32minfo[39m: [32mConectado ao DB[39m
+2024-03-08 06:29:12:2912 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-03-08 06:38:16:3816 - [32minfo[39m: [32mConectado ao DB[39m
+2024-03-08 06:38:16:3816 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-03-08 06:38:57:3857 - [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2024-03-08 06:39:08:398 - [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2024-03-08 06:39:45:3945 - [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2024-03-08 06:40:07:407 - [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2024-03-08 06:40:28:4028 - [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2024-03-08 06:40:42:4042 - [32minfo[39m: [32mConectado ao DB[39m
+2024-03-08 06:40:42:4042 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-03-08 06:41:16:4116 - [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2024-03-08 06:42:57:4257 - [32minfo[39m: [32mConectado ao DB[39m
+2024-03-08 06:42:57:4257 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-03-08 06:43:00:430 - [35mhttp[39m: [35mPOST /api/movie 422 50 - 7.959 ms[39m
+[35m[39m
+2024-03-08 06:44:31:4431 - [32minfo[39m: [32mConectado ao DB[39m
+2024-03-08 06:44:31:4431 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-03-08 06:44:42:4442 - [32minfo[39m: [32mConectado ao DB[39m
+2024-03-08 06:44:42:4442 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-03-08 06:44:46:4446 - [35mhttp[39m: [35mPOST /api/movie 422 50 - 8.478 ms[39m
+[35m[39m
+2024-03-08 06:44:50:4450 - [35mhttp[39m: [35mPOST /api/movie 422 70 - 1.752 ms[39m
+[35m[39m
+2024-03-08 06:44:56:4456 - [35mhttp[39m: [35mPOST /api/movie 201 144 - 77.714 ms[39m
+[35m[39m
+2024-03-08 06:45:01:451 - [35mhttp[39m: [35mPOST /api/movie 201 145 - 51.888 ms[39m
+[35m[39m
+2024-03-08 06:48:17:4817 - [32minfo[39m: [32mConectado ao DB[39m
+2024-03-08 06:48:17:4817 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-03-08 06:48:36:4836 - [35mhttp[39m: [35mPOST /api/movie 422 55 - 9.982 ms[39m
+[35m[39m
+2024-03-08 06:48:44:4844 - [35mhttp[39m: [35mPOST /api/movie 422 70 - 2.559 ms[39m
+[35m[39m
+2024-03-08 06:48:49:4849 - [35mhttp[39m: [35mPOST /api/movie 422 55 - 1.650 ms[39m
+[35m[39m
+2024-03-08 06:49:01:491 - [35mhttp[39m: [35mPOST /api/movie 422 68 - 1.500 ms[39m
+[35m[39m
+2024-03-08 06:49:06:496 - [35mhttp[39m: [35mPOST /api/movie 201 157 - 60.738 ms[39m
+[35m[39m
+2024-03-08 06:50:12:5012 - [32minfo[39m: [32mConectado ao DB[39m
+2024-03-08 06:50:12:5012 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-03-08 06:50:14:5014 - [35mhttp[39m: [35mPOST /api/movie 422 60 - 9.666 ms[39m
+[35m[39m
+2024-03-08 06:50:36:5036 - [35mhttp[39m: [35mPOST /api/movie 201 203 - 71.393 ms[39m
+[35m[39m
+2024-03-08 06:51:58:5158 - [32minfo[39m: [32mConectado ao DB[39m
+2024-03-08 06:51:58:5158 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-03-08 06:52:00:520 - [35mhttp[39m: [35mPOST /api/movie 422 61 - 9.852 ms[39m
+[35m[39m
+2024-03-08 06:52:16:5216 - [35mhttp[39m: [35mPOST /api/movie 201 229 - 73.793 ms[39m
+[35m[39m
+2024-03-08 06:53:22:5322 - [32minfo[39m: [32mConectado ao DB[39m
+2024-03-08 06:53:22:5322 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-03-08 06:53:23:5323 - [35mhttp[39m: [35mPOST /api/movie 422 54 - 10.869 ms[39m
+[35m[39m
+2024-03-08 07:08:15:815 - [32minfo[39m: [32mConectado ao DB[39m
+2024-03-08 07:08:15:815 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-03-08 07:09:03:93 - [32minfo[39m: [32mConectado ao DB[39m
+2024-03-08 07:09:03:93 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-03-08 07:09:37:937 - [35mhttp[39m: [35mGET /api/2 404 144 - 4.228 ms[39m
+[35m[39m
+2024-03-08 07:09:53:953 - [35mhttp[39m: [35mGET /api/movie/2 404 150 - 1.663 ms[39m
+[35m[39m
+2024-03-08 07:12:01:121 - [32minfo[39m: [32mConectado ao DB[39m
+2024-03-08 07:12:01:121 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-03-08 07:12:04:124 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "2" (type string) at path "_id" for model "Movie"[39m
+2024-03-08 07:12:12:1212 - [35mhttp[39m: [35mGET /api/movie/2 - - - - ms[39m
+[35m[39m
+2024-03-08 07:14:00:140 - [35mhttp[39m: [35mGET /api/movie/65eade18c97ec8aa7ee21619 - - - - ms[39m
+[35m[39m
+2024-03-08 07:14:29:1429 - [35mhttp[39m: [35mGET /api//movie/65eade18c97ec8aa7ee21619 - - - - ms[39m
+[35m[39m
+2024-03-08 07:14:34:1434 - [32minfo[39m: [32mConectado ao DB[39m
+2024-03-08 07:14:34:1434 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-03-08 07:14:56:1456 - [35mhttp[39m: [35mGET /api//movie/65eade18c97ec8aa7ee21619 - - - - ms[39m
+[35m[39m
+2024-03-08 07:15:44:1544 - [32minfo[39m: [32mConectado ao DB[39m
+2024-03-08 07:15:44:1544 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-03-08 07:16:36:1636 - [35mhttp[39m: [35mGET /api//movie/65eade18c97ec8aa7ee21619 - - - - ms[39m
+[35m[39m
+2024-03-08 07:17:00:170 - [35mhttp[39m: [35mPOST /api/movie 422 54 - 10.235 ms[39m
+[35m[39m
+2024-03-08 07:17:21:1721 - [35mhttp[39m: [35mGET /api/movie/65eade18c97ec8aa7ee21619 - - - - ms[39m
+[35m[39m
+2024-03-08 07:18:10:1810 - [35mhttp[39m: [35mGET /api/movie/66eade18c97ec8aa7ee21619 404 31 - 38.684 ms[39m
+[35m[39m
+2024-03-08 07:19:16:1916 - [32minfo[39m: [32mConectado ao DB[39m
+2024-03-08 07:19:16:1916 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-03-08 07:19:20:1920 - [35mhttp[39m: [35mGET /api/movie/65eade18c97ec8aa7ee21619 200 144 - 59.722 ms[39m
+[35m[39m
+2024-03-08 07:21:22:2122 - [32minfo[39m: [32mConectado ao DB[39m
+2024-03-08 07:21:22:2122 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-03-08 07:21:38:2138 - [32minfo[39m: [32mConectado ao DB[39m
+2024-03-08 07:21:38:2138 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-03-08 07:21:52:2152 - [35mhttp[39m: [35mGET /api/movie 404 148 - 4.229 ms[39m
+[35m[39m
+2024-03-08 07:23:00:230 - [32minfo[39m: [32mConectado ao DB[39m
+2024-03-08 07:23:00:230 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-03-08 07:23:06:236 - [35mhttp[39m: [35mGET /api/movies 404 149 - 3.923 ms[39m
+[35m[39m
+2024-03-08 07:23:13:2313 - [32minfo[39m: [32mConectado ao DB[39m
+2024-03-08 07:23:13:2313 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-03-08 07:23:49:2349 - [32minfo[39m: [32mConectado ao DB[39m
+2024-03-08 07:23:49:2349 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-03-08 07:23:49:2349 - [35mhttp[39m: [35mGET /api/movie 200 1040 - 65.958 ms[39m
+[35m[39m
+2024-03-08 07:24:50:2450 - [35mhttp[39m: [35mGET /api/movie/65e90345ff23f5524e2c0ec1 200 155 - 52.709 ms[39m
+[35m[39m
+2024-03-08 07:25:18:2518 - [35mhttp[39m: [35mGET /api/movie 200 1040 - 51.285 ms[39m
+[35m[39m
+2024-03-08 07:29:50:2950 - [32minfo[39m: [32mConectado ao DB[39m
+2024-03-08 07:29:50:2950 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-03-08 07:30:00:300 - [32minfo[39m: [32mConectado ao DB[39m
+2024-03-08 07:30:00:300 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-03-08 07:30:36:3036 - [35mhttp[39m: [35mDELETE /api/movie/errado 404 158 - 4.175 ms[39m
+[35m[39m
+2024-03-08 07:31:02:312 - [32minfo[39m: [32mConectado ao DB[39m
+2024-03-08 07:31:02:312 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-03-08 07:31:03:313 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "errado" (type string) at path "_id" for model "Movie"[39m
+2024-03-08 07:31:10:3110 - [35mhttp[39m: [35mDELETE /api/movie/errado - - - - ms[39m
+[35m[39m
+2024-03-08 07:31:30:3130 - [32minfo[39m: [32mConectado ao DB[39m
+2024-03-08 07:31:30:3130 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-03-08 07:31:33:3133 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "errado" (type string) at path "_id" for model "Movie"[39m
+2024-03-08 07:31:35:3135 - [35mhttp[39m: [35mDELETE /api/movie/errado - - - - ms[39m
+[35m[39m
+2024-03-08 07:32:10:3210 - [35mhttp[39m: [35mDELETE /api/movie/65eade18c97ec8aa7ee21610 404 31 - 55.749 ms[39m
+[35m[39m
