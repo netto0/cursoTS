@@ -18,6 +18,6 @@ export const movieCreateValidation = () => {
       }),
     body("description").isString().withMessage("A descrição é obrigatória"),
     body("director").isString().withMessage("O nome do diretor é obrigatório"),
-    body("poster").isURL().withMessage("A imagem precisa ser uma URL")
+    // body("poster").isURL().withMessage("A imagem precisa ser uma URL")
   ];
 };

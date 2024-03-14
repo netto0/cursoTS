@@ -170,3 +170,69 @@
 2024-03-08 07:53:33:5333 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
 2024-03-08 07:53:36:5336 - [35mhttp[39m: [35mDELETE /api/movie/65e90345ff23f5524e2c0ec1 200 37 - 122.428 ms[39m
 [35m[39m
+2024-03-14 06:32:57:3257 - [32minfo[39m: [32mConectado ao DB[39m
+2024-03-14 06:32:57:3257 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-03-14 06:37:37:3737 - [32minfo[39m: [32mConectado ao DB[39m
+2024-03-14 06:37:37:3737 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-03-14 06:37:46:3746 - [35mhttp[39m: [35mPATCH /api/movie/65eade18c97ec8aa7ee21619 200 37 - 119.436 ms[39m
+[35m[39m
+2024-03-14 06:43:09:439 - [35mhttp[39m: [35mPATCH /api/movie/65eade18c97ec8aa7ee21619 404 31 - 47.527 ms[39m
+[35m[39m
+2024-03-14 06:43:16:4316 - [35mhttp[39m: [35mGET /api/movie/ 200 739 - 47.365 ms[39m
+[35m[39m
+2024-03-14 06:43:35:4335 - [35mhttp[39m: [35mPATCH /api/movie/65eadfd08aaa30233d30a159 200 37 - 92.582 ms[39m
+[35m[39m
+2024-03-14 06:43:41:4341 - [35mhttp[39m: [35mGET /api/movie/ 200 509 - 45.574 ms[39m
+[35m[39m
+2024-03-14 06:43:55:4355 - [35mhttp[39m: [35mGET /api/movie/ 200 509 - 42.906 ms[39m
+[35m[39m
+2024-03-14 06:44:01:441 - [35mhttp[39m: [35mPATCH /api/movie/65eadfd08aaa30233d30a159 404 31 - 33.668 ms[39m
+[35m[39m
+2024-03-14 06:44:10:4410 - [32minfo[39m: [32mConectado ao DB[39m
+2024-03-14 06:44:10:4410 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-03-14 06:44:17:4417 - [35mhttp[39m: [35mGET /api/movie/ 200 509 - 49.109 ms[39m
+[35m[39m
+2024-03-14 06:44:37:4437 - [35mhttp[39m: [35mPATCH /api/movie/65eadf6ced1791504d615f8e 200 106 - 92.962 ms[39m
+[35m[39m
+2024-03-14 06:44:42:4442 - [35mhttp[39m: [35mGET /api/movie/ 200 509 - 35.764 ms[39m
+[35m[39m
+2024-03-14 06:44:46:4446 - [35mhttp[39m: [35mGET /api/movie/ 200 509 - 44.170 ms[39m
+[35m[39m
+2024-03-14 06:44:47:4447 - [35mhttp[39m: [35mGET /api/movie/ 200 509 - 45.106 ms[39m
+[35m[39m
+2024-03-14 06:44:48:4448 - [35mhttp[39m: [35mGET /api/movie/ 200 509 - 42.569 ms[39m
+[35m[39m
+2024-03-14 06:46:19:4619 - [35mhttp[39m: [35mPATCH /api/movie/65eadf6ced1791504d615f8e 200 106 - 99.767 ms[39m
+[35m[39m
+2024-03-14 06:46:21:4621 - [35mhttp[39m: [35mPATCH /api/movie/65eadf6ced1791504d615f8e 200 106 - 89.821 ms[39m
+[35m[39m
+2024-03-14 06:46:22:4622 - [35mhttp[39m: [35mPATCH /api/movie/65eadf6ced1791504d615f8e 200 106 - 91.621 ms[39m
+[35m[39m
+2024-03-14 06:46:30:4630 - [35mhttp[39m: [35mGET /api/movie/ 200 509 - 44.256 ms[39m
+[35m[39m
+2024-03-14 06:49:31:4931 - [32minfo[39m: [32mConectado ao DB[39m
+2024-03-14 06:49:31:4931 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-03-14 06:49:38:4938 - [35mhttp[39m: [35mPATCH /api/movie/65eadf6ced1791504d615f8e 200 106 - 118.220 ms[39m
+[35m[39m
+2024-03-14 06:49:42:4942 - [35mhttp[39m: [35mGET /api/movie/ 200 509 - 49.441 ms[39m
+[35m[39m
+2024-03-14 06:51:36:5136 - [32minfo[39m: [32mConectado ao DB[39m
+2024-03-14 06:51:36:5136 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-03-14 06:51:39:5139 - [35mhttp[39m: [35mPATCH /api/movie/65eadf6ced1791504d615f8e 200 106 - 116.015 ms[39m
+[35m[39m
+2024-03-14 06:51:42:5142 - [35mhttp[39m: [35mGET /api/movie/ 200 542 - 48.714 ms[39m
+[35m[39m
+2024-03-14 06:53:01:531 - [32minfo[39m: [32mConectado ao DB[39m
+2024-03-14 06:53:01:531 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-03-14 06:53:25:5325 - [32minfo[39m: [32mConectado ao DB[39m
+2024-03-14 06:53:25:5325 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-03-14 06:53:30:5330 - [35mhttp[39m: [35mPATCH /api/movie/65eadf6ced1791504d615f8e 200 85 - 112.582 ms[39m
+[35m[39m
+2024-03-14 06:53:35:5335 - [35mhttp[39m: [35mGET /api/movie/ 200 521 - 47.534 ms[39m
+[35m[39m
+2024-03-14 06:53:50:5350 - [32minfo[39m: [32mConectado ao DB[39m
+2024-03-14 06:53:50:5350 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-03-14 06:53:51:5351 - [35mhttp[39m: [35mPATCH /api/movie/65eadf6ced1791504d615f8e 422 70 - 10.795 ms[39m
+[35m[39m
+2024-03-14 06:53:59:5359 - [35mhttp[39m: [35mPATCH /api/movie/65eadf6ced1791504d615f8e 422 54 - 3.595 ms[39m
+[35m[39m
